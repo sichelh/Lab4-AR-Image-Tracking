@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5205506230745993817
+  m_GuidHigh: 10013501681320015514
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5178942637373350798
+      m_GuidHigh: 16792542957879162281
+    m_SerializedTextureGuid:
+      m_GuidLow: 190461571342795375
+      m_GuidHigh: 13540977465727502169
+    m_Size: {x: 3, y: 3.2729166}
+    m_SpecifySize: 1
+    m_Name: Robot
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4942539985525101090
+      m_GuidHigh: 129545049905933474
+    m_SerializedTextureGuid:
+      m_GuidLow: 17858046699429471215
+      m_GuidHigh: 15033010724172956984
+    m_Size: {x: 3, y: 3}
+    m_SpecifySize: 1
+    m_Name: RobotCat
+    m_Texture: {fileID: 0}
